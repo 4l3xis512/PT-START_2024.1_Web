@@ -1,0 +1,96 @@
+body 
+{
+    background-color: #62006b;
+    font-family: 'Courier New', Courier, monospace;
+    color: #0edae9;
+}
+.nav_bar 
+{
+    font-size: 50px;
+    font-weight: bold;
+}
+.container 
+{
+    margin-top: 45px;
+}
+
+.col-2.nav_logo 
+{
+    background: url(../image/logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 90px;
+    height: 90px;
+}
+.col-10
+{
+
+}
+.nav_text 
+{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size 
+{
+
+}
+.title_photo 
+{
+    text-align: center;
+}
+.monkey
+{
+    background: url(../image/monkey.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 387px;
+    height: 391px;
+}
+.button_js
+{
+    text-align: center;
+}
+#myButton
+{
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(79, 64, 211);
+    color: #d11d1d;
+    font-weight: bold;
+}   
+#demo img
+{
+    margin-top: 20px;
+    width: 25%;
+}
+.index
+{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.reg__title
+{   
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.reg__input
+{
+    display: flex;
+    align-items: center;
+}
+.hello
+{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.post_header
+{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
